@@ -58,6 +58,7 @@ Run a search request on the API.
 {
     terms: String,
     year: Number, // optional
+    page: Number, // optional (1 - 100)
     type: 'series' || 'movie' || 'episode' // optional
 }
 ```
