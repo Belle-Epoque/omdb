@@ -112,6 +112,7 @@ module.exports.search = function (terms, done) {
   } else {
     query.s = terms.terms || terms.s;
     query.y = terms.year || terms.y;
+    query.page = terms.page || terms.p;
     query.type = terms.type;
   }
 
