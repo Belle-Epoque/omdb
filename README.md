@@ -3,7 +3,7 @@ A simple Node.JS module to access and normalize data from the
 [OMDb API](http://www.omdbapi.com/) by Bryan Fritz.
 
 ## Installation in your project
-    $ yarn add git+ssh://git@github.com:Belle-Epoque/omdb.git
+    $ yarn add https://github.com/Belle-Epoque/omdb.git
 
 ## Examples
 
